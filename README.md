@@ -1,0 +1,1 @@
+# QR-Code-Detect-and-Generate
